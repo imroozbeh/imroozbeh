@@ -1,5 +1,6 @@
 <h1 align="center">
     <b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Roozbeh Rahmani</b>
+
 </h1>
 
 <div align=center>
@@ -12,6 +13,32 @@
 ### Thank You for taking the time to view my GitHub Profile :heart:
 
 </div>
+
+<div align="center">
+    <img src="https://badgify.thex.solutions/api/counter/github/profile/imroozbeh" alt="roozbeh views" /> 
+    </br>
+    </br>    
+<a href="https://www.linkedin.com/in/rozbe777/">
+      		<img src="https://badgify.thex.solutions/api/badge/link?title=Roozbeh%20Rahmani&icon=linkedin&size=s&bg=0072b1" />
+    </a>
+	    <a href="https://imroozbeh.github.io">
+      		<img src="https://badgify.thex.solutions/api/badge/link?title=My%20CV&icon=file&size=s&bg=lavender&color=white" />
+    </a>
+</div>
+
+I am a graduate of Computer Engineering from the [University of Guilan](https://guilan.ac.ir/en/home). I am a computer geek & an open-source advocate.
+</br>
+
+Server-side developer with more than 4 years of experience working with different languages and architectures,
+Full familiarity in the process of software development, testing and troubleshooting,
+I am Skilled In the fields of Python, PHP laravel framework ,(microservice architecture), technologies Introduction to SQL and through it MySQL and familiarity with NoSQL, MongoDB, and Redis with the ability to perform projects in a team Or as an individual
+Maintaining blockchain server-side services (Skilled in building DAPP with solidity)
+</br>
+
+Feel free to contact me on any social network to discuss new ideas and projects.
+
+
+
 
 -----
 
@@ -44,7 +71,18 @@
     <img src="https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=0052CC&labelColor=282828">
 
 </div>
+<br>
+<br>
+<div align="center">
+    <h3>My Projects 🗂</h3>
+    <br/>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imroozbeh&repo=qr-payment-demo&theme=slateorange&hide_border=true)](https://github.com/imroozbeh/qr-payment-demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=imroozbeh&repo=laravelTestWebSocket&theme=slateorange&hide_border=true)](https://github.com/imroozbeh/laravelTestWebSocket)
+
+
+
+</div>
 
 ------
 
@@ -57,12 +95,3 @@
 
 ------
 
-<div align="center">
-
-<b>Visitors Count: from 2022-08-08</b>
-
-<p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{imroozbeh}/count.svg" />
-</p>
-
-</div>
