@@ -54,11 +54,13 @@ Feel free to contact me on any social network to discuss new ideas and projects.
     <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=777BB4&labelColor=282828">
     <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=FF2D20&labelColor=282828">
     <img src="https://img.shields.io/badge/-LUMEN-E74430?style=for-the-badge&logo=lumen&logoColor=E74430&labelColor=282828">
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=lumen&logoColor=E10098&labelColor=282828">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=4479A1&labelColor=282828">
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=47A248&labelColor=282828">
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1&labelColor=282828">
     <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=DC382D&labelColor=282828">
     <img src="https://img.shields.io/badge/-RabbitMQ-ff6600?style=for-the-badge&logo=RabbitMQ&logoColor=ff6600&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Apache Kafka-231F20?style=for-the-badge&logo=RabbitMQ&logoColor=231F20&labelColor=282828">
     <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=005571&labelColor=282828">
     <img src="https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=EE0000&labelColor=282828">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E&labelColor=282828">
